@@ -1,0 +1,11 @@
+platform :ios, '6.0'
+#pod 'SDWebImage'
+#pod 'AviarySDK'
+#pod 'MagicalRecord'
+#pod 'GoogleAnalytics-iOS-SDK'
+#pod 'FlurrySDK'
+#pod 'RestKit'
+
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'TPKeyboardAvoiding'

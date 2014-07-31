@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Handed</key>
+	<dict>
+		<key>1</key>
+		<string>右利き</string>
+		<key>2</key>
+		<string>左利き</string>
+		<key>3</key>
+		<string>両利き</string>
+	</dict>
+	<key>Api Path For Insert User</key>
+	<string>/key/value/one/two</string>
+</dict>
+</plist>
