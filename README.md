@@ -1,8 +1,8 @@
 iOS-MVC-FormDemo
 ================
 
-download zip
+This is sample of iOS development MVC practice.
 
-pod install
-
-double click FormDemo.xcworkspace
+1. Download zip file
+2. This sample is using CocoaPods. Do `pod install`
+3. open FormDemo.xcworkspace
